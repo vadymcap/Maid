@@ -1,5 +1,17 @@
 # Maid
 
+<div align="center">
+    <a href="LICENSE">
+        <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
+    </a>
+    <a href="README.md">
+        <img src="https://img.shields.io/badge/version-1.0.0-green.svg" alt="Version">
+    </a>
+	<a href="https://discord.gg/gQRfWpTsEE">
+		<img src="https://img.shields.io/badge/discord-caps-brightgreen.svg" alt="Discord" />
+	</a>
+</div>
+
 **Effortless resource management for Roblox development.**
 
 A lightweight, type-safe library that streamlines cleanup processes by allowing you to register connections, instances, threads, and callbacks — then dispose of them all with a single method call.

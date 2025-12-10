@@ -15,7 +15,7 @@ Maid.__index = Maid
 	Constructs a fresh Maid instance
 	@return Maid
 ]=]
-function Maid.new() : Maid
+function Maid.new(): Maid
 	return setmetatable({
 		_taskList = {} :: { MaidTask },
 	}, Maid)
@@ -28,6 +28,11 @@ end
 ]=]
 function Maid.AddTask(self: Maid, ...: MaidTask)
 	for _, task in { ... } do
+		if type(task) == "table" and not task.Destroy then
+			warn("[Maid.AddTask] - Gave table task without .Destroy\n\n" .. debug.traceback())
+			return
+		end
+
 		table.insert(self._taskList, task)
 	end
 end
