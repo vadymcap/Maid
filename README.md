@@ -20,12 +20,12 @@ A lightweight, type-safe library that streamlines cleanup processes by allowing 
 
 ## Features
 
-- 🎯 **Simple API** - Just three main methods to learn
-- 🔒 **Type-Safe** - Full Luau strict type support
-- ⚡ **Efficient** - Minimal overhead and memory footprint
-- 🔗 **Flexible** - Supports connections, instances, threads, functions, and nested Maids
-- 🛡️ **Reliable** - Prevents memory leaks and dangling connections
-- 🎮 **Battle-Tested** - Used in production Roblox games
+- **Simple API** - Just three main methods to learn
+- **Type-Safe** - Full Luau strict type support
+- **Efficient** - Minimal overhead and memory footprint
+- **Flexible** - Supports connections, instances, threads, functions, and nested Maids
+- **Reliable** - Prevents memory leaks and dangling connections
+- **Battle-Tested** - Used in production Roblox games
 
 ---
 
