@@ -1,4 +1,4 @@
-# Maid 🧹
+# Maid
 
 **Effortless resource management for Roblox development.**
 
@@ -6,7 +6,7 @@ A lightweight, type-safe library that streamlines cleanup processes by allowing 
 
 ---
 
-## ✨ Features
+## Features
 
 - 🎯 **Simple API** - Just three main methods to learn
 - 🔒 **Type-Safe** - Full Luau strict type support
