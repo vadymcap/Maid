@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
     </a>
     <a href="README.md">
-        <img src="https://img.shields.io/badge/version-1.0.0-green.svg" alt="Version">
+        <img src="https://img.shields.io/badge/version-1.2.0-green.svg" alt="Version">
     </a>
 	<a href="https://discord.gg/gQRfWpTsEE">
 		<img src="https://img.shields.io/badge/discord-caps-brightgreen.svg" alt="Discord" />
