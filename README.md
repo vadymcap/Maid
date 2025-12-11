@@ -33,7 +33,7 @@ A lightweight, type-safe library that streamlines cleanup processes by allowing 
 
 ### Manual Installation
 
-1. Download the `Maid.luau` file
+1. Download the `Maid.luau` or `Maid.rbxm` file
 2. Place it in your project's library folder
 3. Require it in your scripts:
 
