@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
     </a>
     <a href="README.md">
-        <img src="https://img.shields.io/badge/version-1.0.0-green.svg" alt="Version">
+        <img src="https://img.shields.io/badge/version-1.2.0-green.svg" alt="Version">
     </a>
 	<a href="https://discord.gg/gQRfWpTsEE">
 		<img src="https://img.shields.io/badge/discord-caps-brightgreen.svg" alt="Discord" />
@@ -20,12 +20,12 @@ A lightweight, type-safe library that streamlines cleanup processes by allowing 
 
 ## Features
 
-- 🎯 **Simple API** - Just three main methods to learn
-- 🔒 **Type-Safe** - Full Luau strict type support
-- ⚡ **Efficient** - Minimal overhead and memory footprint
-- 🔗 **Flexible** - Supports connections, instances, threads, functions, and nested Maids
-- 🛡️ **Reliable** - Prevents memory leaks and dangling connections
-- 🎮 **Battle-Tested** - Used in production Roblox games
+- **Simple API** - Just three main methods to learn
+- **Type-Safe** - Full Luau strict type support
+- **Efficient** - Minimal overhead and memory footprint
+- **Flexible** - Supports connections, instances, threads, functions, and nested Maids
+- **Reliable** - Prevents memory leaks and dangling connections
+- **Battle-Tested** - Used in production Roblox games
 
 ---
 
