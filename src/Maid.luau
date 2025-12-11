@@ -47,6 +47,8 @@ end
 	:::
 ]=]
 function Maid.BindToInstance(self: Maid, instance: Instance)
+	assert(instance, "[Maid.BindToInstance] - Gave nil instance\n\n" .. debug.traceback())
+
 	self:AddTask(instance.Destroying:Connect(function()
 		self:DoCleaning()
 	end))
