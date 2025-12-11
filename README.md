@@ -282,6 +282,11 @@ Registers one or more cleanup tasks. Accepts:
 
 Automatically triggers cleanup when the specified Instance is destroyed.
 
+:::note
+	The connection monitoring destruction is itself added as a cleanup task
+	and will be properly disconnected during the cleanup process.
+:::
+
 ### `Maid:DoCleaning() → void`
 
 Executes cleanup for all registered tasks based on their type:
